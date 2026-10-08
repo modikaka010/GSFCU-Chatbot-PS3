@@ -24,13 +24,13 @@ export const chatbotConfig = {
 
   requestTimeoutMs: 30_000,
   maxMessageLength: 2000,
-  assistantName: 'NCCT Career Assistant',
+  assistantName: 'GSFC University Assistant',
   zIndex: 1000,
 
   /** Small prompt bubble above the launcher on page load. Edit the copy here. */
   teaser: {
-    message: "Hello! I'm NCCT Career AI. 👋 Wondering where you stand? I can help you explore.",
-    questions: ['What is NCCT Career AI?', 'Based on my skills, where do I stand?'],
+    message: "Hello! I'm the GSFC University Assistant. 👋 Have a question about the university? I can help.",
+    questions: ['Which programs does GSFC University offer?', 'How do I apply for admission?'],
     showAfterMs: 1500,
   },
 

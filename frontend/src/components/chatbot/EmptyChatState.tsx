@@ -10,8 +10,8 @@ export function EmptyChatState({ profile, onSelect }: { profile: UserProfile | n
   return (
     <div className="cb-empty">
       <span className="cb-empty__icon" aria-hidden="true"><GraduationCap size={26} /></span>
-      <h3>Your Career Journey Starts Here</h3>
-      <p>Ask about any career, its skills, courses and certifications.</p>
+      <h3>Welcome to GSFC University</h3>
+      <p>Ask about programs, admissions, exams, hostels, events and more.</p>
       <div className="cb-msg cb-msg--ai cb-empty__greeting">
         <AssistantAvatar />
         <div className="cb-bubble"><RichText text={buildGreeting(profile)} /></div>

@@ -1,31 +1,29 @@
 """
 calibrate_threshold.py - find good STRONG_MATCH / WEAK_MATCH values.
 
-Put this file in backend/ (next to main.py) and run from inside backend/:
-    python calibrate_threshold.py
-
-Edit the two lists with questions that match YOUR knowledge base.
+Run from inside backend/:   python calibrate_threshold.py
+Edit both lists so they match what is REALLY in gsfcu_kb.json.
 """
 
 import time
 
-from services.rag_service import search_careers
+from services.rag_service import search_kb
 
-# Careers you KNOW are in careers.json
+# Questions the KB DOES answer
 IN_KB = [
-    "I want to become a data engineer",
-    "how do I become a pilot",
-    "what should I study to be a doctor",
-    "tell me about being an architect",
-    "career in graphic design",
+    "which schools does the university have",
+    "how do I contact the admission office",
+    "what hostels are available",
+    "tell me about the IEEE student branch",
+    "which companies recruit from the university",
 ]
 
-# Careers you KNOW are NOT in careers.json (check your file!) plus off-topic
+# University-related questions the KB does NOT answer, plus off-topic ones
 NOT_IN_KB = [
-    "I want to become a cybersecurity analyst",
-    "how to become a sommelier",
-    "career as a lighthouse keeper",
-    "hello how are you",
+    "what is today's canteen menu",
+    "who is the head of the physics department",
+    "who won the cricket world cup",
+    "how do I cook pasta",
     "what is the weather today",
 ]
 
@@ -34,10 +32,10 @@ def run(label, questions):
     print(f"\n--- {label} ---")
     scores = []
     for q in questions:
-        top = search_careers(q, top_k=1)[0]
+        top = search_kb(q, top_k=1)[0]
         scores.append(top["similarity"])
-        print(f"{top['similarity']:.3f}  {top['career']:<28}  <- {q}")
-        time.sleep(1)           # be gentle with the embedding quota
+        print(f"{top['similarity']:.3f}  {top['title'][:34]:<34}  <- {q}")
+        time.sleep(1)
     return scores
 
 
@@ -46,5 +44,6 @@ out_scores = run("NOT in knowledge base", NOT_IN_KB)
 
 print("\nLowest 'in KB' score  :", round(min(in_scores), 3))
 print("Highest 'not in KB'   :", round(max(out_scores), 3))
-print("Pick STRONG_MATCH just below the lowest 'in KB' score,")
+print("Set STRONG_MATCH just below the lowest 'in KB' score,")
 print("and WEAK_MATCH a bit above the highest 'not in KB' score.")
+print("Then add them to .env as STRONG_MATCH=... and WEAK_MATCH=...")

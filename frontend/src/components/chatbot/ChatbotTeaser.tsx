@@ -14,7 +14,7 @@ export function ChatbotTeaser({ onAsk, onDismiss }: Props) {
   if (!visible) return null;
 
   return (
-    <aside className="cb-teaser" aria-label="Career assistant tip">
+    <aside className="cb-teaser" aria-label="University assistant tip">
       <button type="button" className="cb-teaser__close" onClick={onDismiss} aria-label="Dismiss" title="Dismiss">
         <X size={14} aria-hidden="true" />
       </button>

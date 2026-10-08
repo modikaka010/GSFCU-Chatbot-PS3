@@ -1,0 +1,249 @@
+Frequently Asked Questions
+BTech Computer Science & Engineering, GSFC University
+1. What is the difference between Computer Science & Engineering (CSE) and Computer Engineering (CE)?
+At GSFC University, both CSE and CE share a common foundation in computing, but they differ in focus and career orientation.
+• Computer Science & Engineering (CSE): CSE emphasizes software development, algorithms, artificial intelligence, machine
+learning, data science, and cybersecurity. It prepares students to design and optimize software solutions, work on emerging
+technologies, and handle large-scale data-driven systems.
+• Computer Engineering (CE): CE combines computer science with electronics and hardware engineering. Students learn about
+microprocessors, embedded systems, VLSI design, and hardware-software integration. It prepares students for roles that
+require knowledge of both computing and physical systems, such as chip design and embedded programming.
+• At GSFC University: CSE students gain additional exposure to AI/ML, IoT & Automation, and Cyber Security, making the
+program more industry-aligned with current technology needs.
+2. What is the difference between Computer Science & Engineering (CSE) and Information Technology (IT)?
+CSE and IT are closely related, but they serve different purposes in the industry.
+• Computer Science & Engineering (CSE): Focuses on building and innovating technology itself. Students learn software
+engineering, AI/ML, IoT, cybersecurity, and theoretical foundations like algorithms and operating systems. CSE graduates
+often work in software development, AI research, data science, and security engineering .
+• Information Technology (IT): Primarily deals with the application of existing technologies to solve business problems. IT
+professionals focus on networking, databases, system administration, and managing IT infrastructure. IT graduates often
+work as network administrators, system analysts, or IT managers.
+• At GSFC University: CSE curriculum is designed with strong industry linkages and specialization tracks (AI/ML & Data Science,
+IoT & Automation, Cyber Security), giving students wider career opportunities compared to traditional IT programs.
+3. How does GSFC University prepare students for real-world applications in AI, ML, and Data Science?
+GSFC University ensures that students specializing in AI, ML, and Data Science get hands -on experience with real-world
+applications.
+• Advanced Labs: Students have access to specialized Data Science & AI labs equipped with supercomputing resources
+(PARAM Shavak DL-GPU).
+• Practical Exposure: Regular projects on Natural Language Processing, Computer Vision, and Deep Learning help students
+apply theories to practical challenges.
+• Industry Mentorship: Students work on live projects with companies in analytics, healthcare, finance, and automation,
+bridging the gap between academia and industry.
+• Competitions & Hackathons: Participation in Kaggle challenges, AI hackathons, and data-driven innovation contests to
+sharpen skills.
+• Research Opportunities: Encouragement to publish research papers in AI/ML journals and conferences with faculty guidance.
+4. What tools and programming platforms are taught in the Data Science, AI & ML specialization?
+Students get extensive training in both foundational and advanced tools required by industry:
+• Programming Languages: Python, R, and Java for AI/ML implementations.
+• Libraries & Frameworks: TensorFlow, PyTorch, Scikit-Learn, Keras, Pandas, NumPy.
+• Big Data Tools: Hadoop, Spark, and cloud-based AI platforms.
+• Visualization Tools: Tableau, Power BI, and Matplotlib for data storytelling.
+• Databases: SQL, NoSQL, and cloud databases for managing large datasets.
+This ensures graduates are industry-ready with in-demand technical expertise.
+5. How does GSFC University’s IoT & Automation specialization stand out?
+The IoT & Automation specialization at GSFC University is designed to build expertise in connected devices and intelligent
+automation.
+• Dedicated IoT Lab: A Design IoT Lab, supported by GUJCOST & DST, enables students to prototype real IoT devices and
+automation systems.
+• Core Exposure: Training on IoT architecture, sensors, protocols, and robotics ensures practical knowledge.
+• Industry 4.0 Integration: Focus on smart manufacturing, industrial automation, and cyber-physical systems.
+• Collaborations: Industry tie-ups for automation projects, allowing students to design solutions for agriculture, healthcare,
+and smart cities.
+• Project Development: Students design smart devices such as home automation systems, intelligent robots, and industrial
+monitoring tools.
+6. What kind of hands-on training is provided in IoT & Automation?
+Students receive practical training through:
+• Live Device Programming: Programming of IoT boards such as Arduino, Raspberry Pi, and ESP8266.
+• Wireless Sensor Networks: Practical exercises on Zigbee, Bluetooth, and Wi-Fi-based IoT systems.
+• Robotics Training: Exposure to Robotics and Robotic Process Automation (RPA).
+• Prototype Building: Projects in smart homes, automated vehicles, and environmental monitoring devices.
+• Industry Projects: Collaboration with industries for implementing IoT-enabled automation solutions in manufacturing and
+logistics.
+7. How does GSFC University train Cyber Security students to handle real-world threats?
+The Cyber Security specialization focuses on both preventive and defensive approaches:
+• Cyber Labs: Access to dedicated cybersecurity labs for penetration testing, vulnerability assessment, and ethical hacking.
+• Practical Simulations: Training students through simulated cyber-attacks, malware analysis, and forensic case studies.
+• Updated Curriculum: Courses aligned with global trends in cyber defense, SCADA protection, and digital forensics.
+• Industry Certifications: Support to pursue certifications like CEH, CompTIA Security+, and CISSP.
+• Government & Industry Projects: Opportunities to contribute to security projects in collaboration with defense and IT
+organizations.
+8. What advanced career opportunities are available after specializing in Cyber Security?
+Graduates from Cyber Security specialization are highly in demand across sectors such as IT, Banking, Defense, and Consulting .
+Career options include:
+• Cyber Security Analyst and Specialist
+• Security Architect and Consultant
+• Ethical Hacker and Penetration Tester
+• Malware Analyst
+• Digital Forensics Expert
+• IT Risk & Compliance Officer
+• Cloud Security Engineer
+• Chief Information Security Officer (CISO) (with experience)
+9. Do students get opportunities to work on interdisciplinary projects across AI/ML, IoT, and Cyber Security?
+Yes, GSFC University strongly promotes interdisciplinary learning.
+• AI is integrated with IoT to create intelligent automation systems.
+• Data Science and ML are used to analyze data generated from IoT devices.
+• Cyber Security principles are applied to secure IoT networks and AI-driven systems.
+• Students often collaborate on research projects that combine all three specializations, such as Smart City Security Systems,
+AI-driven Healthcare Devices, and Cyber-Resilient Automation Platforms.
+10. How is Computer Science Engineering at GSFC University different from other universities?
+BTech Computer Science & Engineering offered at GSFC University is the unique program focusing on developing the industry
+relevant skills and holistic development of students by offering array of resources and the best environment of learning
+✓ Research Labs: Exposure of working on industrial problems in the State of the art Research labs developed such as
+Supercomputer Lab (PARAM Shavak DL -GPU) & Design IoT Lab, sponsored and supported by Gujarat Council on Science
+& Technology (GUJCOST), Department of Science & Technology ( DST)
+✓ Access to GSFC Ltd laboratories: Prospects of working at the laboratories of GSFC Limited and access to of 22 process
+plants for internship opportunities as well as learning from the industry experts
+✓ Student Centric Approach: At GSFC University, we follow student -centric approach where pedagogy and curricular
+choices are designed to make learning meaningful, relevant, engaging, and responsive to students’ needs.
+✓ Industrial Internship: Compulsory industrial internship of 4 weeks in every semester starting from the first year itself
+and the opportunity to work on the projects offered by industry partners/organizations like Embibe, Gujarat Institute of
+Disaster Management(GIDM), Incture, Guby Rogers, Infinilytics, G2HMEDTECH, WePreneurs, Trakky, Open Security
+Alliance and others
+✓ Hands on Sessions: More focus on Hands on Sessions such as Web development, Gaming, Android, AI and Machine
+learning etc. for students overall development to be Industry-ready.
+✓ Industry Driven Curriculum: Industry driven and flexible curriculum designed with the support of industry experts
+appointed on Board of Studies
+✓ Strong industry linkages: Expert talks, Symposiums, Projects and Hands on experience from industry resources because
+of strong industry connects. MoUs with GIDM, NASSCOM, PTC, AToS and foreign universities
+✓ Support for startup and innovation: Inculcating innovation, funding support for innovative projects and extending
+support for startups through GUIITAR (GSFC University Incubation Innovation Technology and Applied Research)
+Council
+11. What are the courses taught in by the Computer Science Engineering ?
+✓ Fundamental courses: Basics of Electrical & Electronics,Mathematics - I,Engineering Physics
+✓ Ability Enhancement Courses : Communicate Skills ,Business Communication, Entrepreneurship Development,
+Environmental Studies, Disaster Risk Management, Indian Constitution
+✓ Core subjects: Computer Programming, Object oriented Programming with C++ ,Data Structures & Algorithms, Object
+Oriented Programming with JAVA,Operating System,Computer Organization Information & Network Security, Mobile
+Application Development , Design and Analysis of Algorithms,Software Engineering,Advanced Web Technology
+✓ Elective courses: Cloud Computing,Dot Net Technology ,Service Oriented Architecture Computer Graphics,
+Image Processing ,Data Warehousing & Data Mining,Cyber Security and Blockchain Technology
+✓ NPTEL Elective: NPTEL is a project of MHRD initiated by 7 IITs along with the IISc, Bangalore in 2003, to provide quality
+education to anyone interested in learning from the IITs, Student need to select a subject of choice from the Subjects
+offered by NPTEL for the particular academic session.
+✓ Specialized track courses : Data Science, Artificial Intelligence & Machine Learning, IOT & Automation , Cyber Security
+etc.
+12. What specializations are being offered in Computer Science and Engineering?
+GSFC University is presently offering three specializations in BTech Computer Science and Engineering.
+1. Data Science, Artificial Intelligence and Machine Learning
+2. IOT and Automation
+3. Cyber Security
+13. What are the specialization subjects offered in Data Science, AI and Machine Learning specialization?
+Along with the core subjects of Computer Science & Engineering, specialization courses - Python Programming,
+Fundamentals of AI & ML , Data Science for Engineers, Deep Learning, Big Data Architecture, Natural Language Processing
+and machine learning for intelligent systems are offered under Data Science, AI & ML specialization.
+14. What are the potential career paths after completing Data Science , AI & ML specialization with B.Tech. Computer Science
+& Engineering ?
+Plenty of career options available after completing the program with a wide range of Job Roles as follows. Data Science, AI &
+ML is considered to offer few of the most lucrative jobs in the industries.
+● Software Developer
+● Business Intelligence Analyst
+● Data Engineer
+● Database Manager
+● Data Analyst
+● Quality Specialist
+● Data Scientist
+● ML Architect & Specialist
+● Mobile Application Developer
+● Web Developer
+● AI Engineer
+● Analytics Manager / Data Science Leader
+● Full Stack Developer
+15. What are the subjects offered in IoT & Automation specialization?
+Along with the core subjects of Computer Science & Engineering, specialization courses - Python Programming, Fundamental
+of Internet-Of-Things , Fundamentals of Robotics & RPA, IOT Architecture and Protocols, Wireless Sensor Networks (WSN) &
+IOT Standards, Data Analytics for IOT & Industry 4.0 and Application Areas are offered under IoT & Automation
+specialization.
+16. What are the potential career paths after completing IoT & Automation specialization with B.Tech. Computer Science &
+Engineering ?
+Plenty of career options available after completing the program with a wide range of Job Roles as follows. IoT & Automation
+is considered to offer few of the most lucrative jobs in the industries.
+● Senior Software Engineer
+● Solutions Architect
+● Software Team Leader
+● Embedded Software Development Engineer
+● Software Developer
+● Software Engineer
+● IOT Network Engineer
+● IOT Backend Engineer
+● RPA Developer
+● RPA Architect
+● RPA Analyst
+● Production planners
+● Data product manager
+17. What are the subjects offered in Cyber Security specialization?
+Along with the core subjects of Computer Science & Engineering, specialization courses - Python Programming,
+Fundamentals of Fundamentals of Cyber Security, Network Security Principles, Application Security Principles, Vulnerability
+and Penetration Testing, Cybersecurity for SCADA and Industrial Control Systems & Digital Forensics are offered under Cyber
+Security specialization.
+18. What are the potential career paths after completing Cyber Security specialization with B.Tech. Computer Science &
+Engineering ?
+Plenty of career options available after completing the program with a wide range of Job Roles as follows. Cyber security is
+considered to offer few of the most lucrative jobs in the industries.
+● Security Architect
+● Malware Analyst
+● IT Security Engineer
+● Security Consultant
+● Security Software Developer
+● Security Incident Responder
+● Security Systems Administrator
+● Data Security Strategist
+● Cyber Security Specialist
+19. What is the duration and which degree will be awarded to students after completion of Bachelor in Computer Science and
+Engineering?
+The duration of the course is 4 Years and after completion, students will be awarded with following degrees:
+1. B.Tech. Computer Science and Engineering with specialization in Data Science , AI and ML.
+2. B.Tech. Computer Science and Engineering with specialization in IoT and Automation
+3. B.Tech. Computer Science and Engineering with specialization Cyber Security
+20. What are the facilities available at the campus?
+GSFC University has indoor and outdoor sports facilities, gym, medical center, etc. A fully developed, safe and secured hoste l
+facility with mess available within the GSFC Fertilizernagar Township for girls and boys. Both the hostel facilities are Wi -Fi
+enabled and well furnished with entertainment, food and other facilities.
+21. What are the laboratory facilities available in Computer Science and Engineering ?
+● Research labs such as Supercomputer Lab (PARAM Shavak DL -GPU) & Design IoT Lab, sponsored and supported by
+Gujarat Council on Science & Technology (GUJCOST), Department of Science & Technology ( DST)
+● High Tech classrooms with Digital Podium and Well-Equipped Laboratories
+● Robotics Lab, e-Yantra Lab setup in collaboration with IIT Bombay
+● Specialized laboratories for Data Science, Artificial Intelligence & Machine Learning along with the laboratories for core
+subjects
+● Access to GSFC Ltd laboratories: Prospects of working at the laboratories of GSFC Limited and access to 22 process plants
+for internship opportunities as well as learning from the industry experts.
+22. How does Computer Science & Engineering program provide Industrial exposure to students?
+Compulsory industrial internship of 4 weeks in every semester starting from the first year itself and the opportunity to work
+on the projects offered by industry partners/organizations like Embibe, Gujarat Institute of Disaster Management(GIDM),
+Incture, Guby Rogers, Infinilytics, G2HMEDTECH, WePreneurs, Trakky, Open Security Alliance and others. During industrial
+training/ internships, students mentored by the industry mentors and get hands -on experience after every semester. Many
+of the students have secured the internships with stipends up to Rs. 25000/-.
+Industry driven and flexible curriculum is designed with the support of industry experts. Expert talks / hands -on training
+workshops , panel discussions and industrial visits are part of regular activities in each semester. Also we receive continuo us
+support from GIDM and GSFC Ltd experts. Club Events organized and coordinated by the students are very helpful to
+improve their leadership skills. All students deserve the chance to pursue the career of their dreams, with a particular
+urgency for those who face the additional challenges of poverty.
+Innovative research projects are developed by the students using the Supercomputer facility and Design IoT lab like
+Earthquake identification using Vibration, Anti Collision Device, Smart Trash, Prototype of Anti -cheating software, Virtual
+Assistant, Bio-waste segregation, Virtual Labs using AR/VR and others
+23. Apart from curricular activities, are there any co -curricular and extracurricular activities or platforms in Computer Science
+& Engineering at GSFC University ?
+Along with the course curriculum, the students of Computer Science & Engineering also participate in various co -curricular
+and extracurricular activities through different clubs managed by students themselves like Entrepreneurship - Cell,
+Photography Club, Robotics Club, Cultural Club, Sports Club, etc. and specially CODE Club. Under the C.O.D.E. Club various
+hands-on sessions were organized such as Mobile Development , Game Development, Unity 3D, Wordpress and many more.
+First Year CSE students won the 1st Prize in E-Summit organized by IIT Bombay.
+24. Do you provide sports facility?
+Yes. We have additional facility for all the games such as badminton, cricket, basketball, volleyball, swimming, chess, carom,
+golf, gym etc. Besides, the students will have the opportunity to be trained by recognized coaches and national and
+international players of the game through the GSFC Ltd.’s sports department on nominal chargeable basis.
+25. Do you provide Hostel facility?
+Yes. A fully developed, safe and secured hostel facility with a mess is available within the GSFC Fertilizernagar Township fo r
+girls and boys. There are 71 rooms in boys hostel and 20 rooms in girls hostel . Both the hostel facilities are Wi -Fi enabled
+and well furnished with entertainment, food and other facilities.
+26. Do you provide transportation facilities to reach GSFC University?
+The University campus can be reached by public transport from Vadodara city. All the buses going to Dashrath village can be
+used for this purpose. The University also runs buses on chargeable basis as per University timing. The information regarding
+the same can be collected from the administration office.
+27. How is GSFC University campus girl friendly?
+The Campus is situated inside the GSFC Ltd township, which has 24 x 7 surveillance. The University also offers comfortable
+and convenient residence for girls. The residential complex provides accommodation on sharing basis and ensures safety and
+well-being for all girls. The complex is designed to give the residents a sense of home and living in a big family.
+28. How to apply for admission?
+To know the admission procedure and other details please visit https://www.gsfcuni.edu.in/apply-for-admission and register
+yourself.

@@ -6,7 +6,7 @@ export function TypingIndicator() {
       <AssistantAvatar />
       <div className="cb-bubble cb-typing">
         <span className="cb-dot" /><span className="cb-dot" /><span className="cb-dot" />
-        <span className="cb-sr">NCCT Career Assistant is thinking…</span>
+        <span className="cb-sr">GSFC University Assistant is thinking…</span>
       </div>
     </div>
   );

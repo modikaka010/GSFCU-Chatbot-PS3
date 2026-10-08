@@ -1,0 +1,302 @@
+Bachelor in Computer Application (BCA) | GSFC University, Vadodara
+Bachelor in Computer Application (BCA)
+Bachelor in Computer Application (BCA)
+About The Program
+Program Objectives
+Program Outcomes
+Program Structure
+Course Structure
+Admission Process
+Contact Co-ordinator
+E-Centre
+About The Program
+Embark on a transformative journey through the Bachelor of Computer Applications (BCA) Program at GSFC University, a dynamic degree meticulously crafted to empower you with a strong foundational knowledge of computer applications, cutting-edge theories in information technology, and proficient programming skills. Immerse yourself in a comprehensive curriculum that explores diverse domains, including digital computer fundamentals, computational thinking, Linux/Unix Programming, C programming, data structures, Java Programming, database management systems, and security. With a clear purpose in mind, our program aims to provide you with the perfect platform to unleash your potential and emerge as industry-ready IT professionals, poised for unrivalled success in the ever-evolving technological landscape.
+Step into the prestigious School of Technology at GSFC University, where we unveil an extraordinary BCA Program that will leave you captivated. Immerse yourself in a meticulously crafted educational experience, carefully calibrated to harmonize with the visionary National Education Policy (NEP) 2020. This ingeniously designed program draws inspiration from the revered "Curriculum and Credit Framework for Undergraduate Programs" recommended by the UGC, seamlessly blending a flexible choice-based credit system with a dynamic multidisciplinary approach. Get ready to ignite your inner flame of curiosity and embark on a riveting journey of true passion for learning.
+The BCA Program spans over eight semesters (four years), strategically laying a strong foundational understanding of subjects, while delving into practical applications and recent developments. Every semester, students have the unique opportunity to immerse themselves in industrial internships, acquiring both theoretical knowledge and hands-on experienc
+Our specialized Computer Application Courses cater to the demands of a dynamic industrial landscape, setting the stage for prosperous careers in research and development, industries, and academic institutions. Furthermore, the institute may provide placement opportunities to our aspiring graduates.
+Our BCA Program offers an array of degree options, allowing students to customize their academic journey according to their aspirations:
+• 3 Year BCA
+• 4 Year BCA – Honours
+Upon completion of the third year, students have the option to exit with a prestigious BCA Degree. However, for those seeking to delve deeper into their chosen field, the fourth year presents two distinct paths to explore. The first option allows students to specialize in their discipline, pursuing an Honours Degree that delves into comprehensive and in-depth studies within their major. Alternatively, for those with a thirst for research and an unwavering curiosity, the Honours with Research option opens doors to further academic exploration.
+Program Objectives
+To equip students with the skills to analyze, formulate, and solve real-life problems based on their strong foundation in computer applications.
+To foster professionalism, an ethical attitude, effective communication skills, teamwork, a multidisciplinary approach, and continuous professional development.
+To prepare students for a successful career in the field of Information Technology, encompassing various domains such as industry, technology, research, and higher education/academia, while fostering creativity and unwavering commitment.
+To empower students with the ability to translate and synthesize their understanding in relation to nature, humanity, and societal development.
+Program Outcomes
+Acquire and apply comprehensive knowledge of computer software concepts to address industry-specific challenges.
+Develop software solutions, conduct experiments, analyze and interpret data to investigate complex issues within IT-related domains.
+Design and implement sustainable solutions for significant environmental problems by utilizing appropriate IT tools.
+Demonstrate the ability to work collaboratively in multidisciplinary environments, showcasing strong learning skills.
+Exhibit effective oral communication skills employing a wide range of IT tools.
+Possess knowledge and understanding of ethical norms in the field of computer science and its applications.
+Program Structure
+The BCA Program has a duration of four years, with the option for students to exit after three years. Each academic year is divided into two semesters, resulting in a total of eight semesters. The duration of each semester is fifteen weeks, dedicated to teaching and learning.
+The teaching-learning process incorporates both theory classes, which are one hour in duration, and practical classes, which are four hours long. The curriculum delivery encompasses various methods, including traditional chalk and talk lectures, hands-on laboratory sessions, dynamic presentations using audio and video tools, engaging e-learning and e-content resources, virtual laboratories, simulations, field trips, industry visits, seminars, workshops, projects, interactive models, class discussions, and invaluable industrial internships.
+Evaluation
+Evaluation methods encompass both internal and external assessments. The assessment structure comprises Internal Assessment, which is a continuous evaluation component, and External Assessment, specifically the End Semester Examination. Each course is allocated a total of 100 marks for theory, with 50 marks allocated for Internal Assessment and 50 marks for the End Semester Examination. Additionally, practical courses carry an extra 50 marks. Internal assessment is conducted through multiple methods such as Multiple-Choice Questions (MCQs), classroom tests, assignments, oral presentations, and short projects.
+Courses
+Curriculum Structure
+Sr. No.
+Category of Course
+3 Years
+4 Years
+Major
+Major
+Multidisciplinary
+Ability Enhancement Course
+Skill Enhancement Courses (SEC)
+Value Added Course
+Internship
+Research Work / Dissertation
+Total
+126
+176
+In the context of theory classes, one credit represents a one-hour lecture per week. On the other hand, for practical sessions, one credit corresponds to a two-hour laboratory session per week.
+To obtain a BCA Degree (3 Years), students are required to complete a minimum of 124 credits. For those aiming for a BCA Honours Degree or BCA Honours with Research Degree, a minimum of 164 credits must be fulfilled.
+Course Structure
+Credits
+Semester I
+Semester II
+Semester III
+Semester IV
+Semester V
+Semester VI
+Structure of Undergraduate Programme
+Sr. No.
+Category of Course
+Credit
+Core Courses
+Discipline Specific Elective
+Skill Enhancement Courses
+Ability Enhancement Courses
+Value Added Courses
+Multi-Disciplinary Elective Course
+Open Elective
+Total
+126
+Semester – I
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC101
+Fundamentals of English
+100
+B. Skill Enhancement Courses
+VACC101
+Foundation Course
+100
+C. Core Course
+BCCA101
+Fundamentals of Web designing
+150
+BCCA102
+Digital Electronics
+150
+BCCA103
+Programming using C language
+150
+BCCA104
+Statistics-I
+100
+D. Value Added Course
+CBCS10XX
+Python Programming/ Air Pollution Control
+100
+Total
+750
+Semester – II
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC201
+Communication Skills in English
+100
+B. Skill Enhancement Courses
+SECC201
+Industrial Internship
+100
+C. Value Added Courses
+VACC202
+Vedic Mathematics
+100
+CBCS2XX
+Introduction to Social Work/ Accounting for non-management students/Personal Finance
+100
+D. Core Course
+BCCA201
+Front-end Programming
+150
+BCCA202
+System Analysis and Design
+100
+BCCA203
+Object Oriented Programming using C++
+150
+BCCA204
+Programming using Python
+100
+BCCA205
+Discrete Mathematics
+150
+Total
+1050
+Semester – III
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC301
+Entrepreneurship Development
+100
+B. Skill Enhancement Courses
+SECC301
+Industrial Internship
+100
+b) Skill Enhancement elective (any one)
+CBCS3XX
+Project Management/ CAD/CAM, World Geography, App Development
+100
+CBCS501
+Leadership & Team Building Skills
+100
+C. Core Course
+BCCA301
+Database Management System
+150
+BCCA302
+Data Structure & Algorithm
+150
+BCCA303
+Server Side Scripting
+150
+BCCA304
+Computer Networks
+100
+BCCA305
+Numerical Methods & Analysis using MATLAB
+150
+Total
+1100
+Semester – IV
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC401
+Environmental Studies
+100
+B. Skill Enhancement Courses
+BCCA406
+Internship
+100
+C. Core Course
+BCCA401
+Operating System
+150
+BCCA402
+Introduction to AI-ML
+150
+BCCA403
+Object Oriented Programming using Java
+150
+BCCA404
+Cyber Law & Ethics
+100
+BCCA405
+Graph Theory
+100
+Total
+850
+Semester – V
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC501
+Disaster and Risk Management
+100
+B. Skill Enhancement Courses
+BCA505
+Internship
+100
+BCA504
+Minor Project
+100
+C. Core Course
+BCA501
+Software Engineering
+150
+D. Professional Electives
+BCA502A
+Data Visualization
+150
+BCA502B
+Natural Language Processing
+100
+BCA503A
+Advanced Java
+150
+BCA503B
+Dotnet Technologies
+100
+Total
+750
+Semester – VI
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC601
+Indian Constitution
+100
+B. Skill Enhancement Compulsory Courses
+Skill Enhancement compulsory course
+BCA603
+Major Project
+100
+C. Core Course
+BCA601
+Mobile Application Development
+150
+D. Professional Electives
+BCA602A
+Fundamentals of Cloud Computing
+150
+BCA602B
+Data Warehousing & Mining
+150
+BCA602C
+Digital Image Processing
+150
+Total
+500
+Admission Process
+Total Intake
+60 Seats
+Mode of Admission
+Merit Based
+Qualifying Examination
+10 + 2 (Any stream) or Equivalent
+Eligibility for Admission
+Candidate must have passed 12th or equivalent Examination from the recognized Board excluding NIOS securing a minimum 65% and above mark in aggregate of all the subjects. Applicants with 12th or equivalent from International Schools, affiliated to foreign education boards like IGCSE (International General Certificate for Secondary Education) and IB (International Baccalaureate) can apply, they have to submit equivalence certificate of Association of Indian Universities, New Delhi.
+Registration Fees
+The registration fee for submitting online application form is Rs. 500/- (Rupees Five Hundred Only), which is to be paid online.
+Selection Process:
+60% and above aggregate marks in H.S.C (12th Std) or equivalent - Direct admission on first cum first basis. 60% to 65% aggregate marks in H.S.C (12th Std) or equivalent - on the spot Admission after interaction with the Faculty, School of Science, GSFC University.
+Contact Co-ordinator
+Mrs. Yoothika Sugney Patel
+Program Coordinator
+- pc.bca@gsfcuniversity.ac.in
+E-Centre
+Sample Paper for Entrance Test
+University Brochure
+Detailed Curriculum

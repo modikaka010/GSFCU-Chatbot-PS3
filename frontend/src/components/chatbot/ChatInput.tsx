@@ -34,11 +34,11 @@ export function ChatInput({ onSend, disabled }: Props) {
 
   return (
     <div className="cb-input">
-      <label htmlFor="ncct-cb-input" className="cb-sr">Message the NCCT Career Assistant</label>
+      <label htmlFor="ncct-cb-input" className="cb-sr">Message the GSFC University Assistant</label>
       <textarea
         id="ncct-cb-input" ref={ref} rows={1} value={value} maxLength={max}
         onChange={(e) => setValue(e.target.value)} onKeyDown={onKeyDown}
-        placeholder="Ask about your career, skills, courses or opportunities..."
+        placeholder="Ask about admissions, programs, exams, hostels or events..."
       />
       <button type="button" className="cb-send" onClick={submit} disabled={disabled || !value.trim()} aria-label="Send message" title="Send (Enter)">
         <ArrowUp size={18} aria-hidden="true" />

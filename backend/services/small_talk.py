@@ -1,9 +1,9 @@
 """
 small_talk.py - instant, hand-written replies for messages that are not
-career questions (greetings, "what are you", thanks, bye, off-topic).
+university questions (greetings, "what are you", thanks, bye, off-topic).
 
 No API calls, so these never use your Gemini/Groq quota and are never
-logged as "missing careers".
+logged as "missing information".
 
 Place in: backend/services/small_talk.py
 """
@@ -12,41 +12,43 @@ import re
 
 
 EXAMPLES = (
-    "- What certifications do I need to become a Data Engineer?\n"
-    "- How do I become a pilot?\n"
-    "- What skills does a graphic designer need?"
+    "- What programs does the School of ICT offer?\n"
+    "- How can I contact the admission office?\n"
+    "- Tell me about the IEEE Student Branch"
 )
 
 GREETING = (
-    "Hi! 👋 I'm your AI career counselling assistant. I can help you explore "
-    "careers, the education and skills they need, useful courses and "
-    "certifications, and entry-level roles.\n\n"
+    "Hi! 👋 I'm the GSFC University student assistant. I can help with "
+    "programs and schools, admissions, exams, hostels, facilities, events, "
+    "clubs, placements and contacts.\n\n"
     "Try asking:\n" + EXAMPLES
 )
 
 HOW_ARE_YOU = (
-    "I'm doing great, thanks for asking! 😊 How can I help with your career today?\n\n"
+    "I'm doing great, thanks for asking! 😊 How can I help you with "
+    "university information today?\n\n"
     "You could ask:\n" + EXAMPLES
 )
 
 ABOUT_ME = (
-    "I'm an AI career counselling assistant for students. I can explain "
-    "careers, the education and skills they need, useful courses and "
-    "certifications, entry-level roles, and how a career grows over time.\n\n"
-    "I'm not a scientifically validated career assessment, so treat my "
-    "suggestions as a starting point and talk to a teacher or counsellor too.\n\n"
-    "Which career are you curious about?"
+    "I'm an AI assistant for GSFC University students. I answer questions "
+    "using the university's verified information (programs, admissions, "
+    "exams, hostels, facilities, events, clubs, contacts) and I show where "
+    "each answer comes from.\n\n"
+    "If I don't have verified information, I'll say so instead of guessing, "
+    "and point you to the right office.\n\n"
+    "What would you like to know?"
 )
 
-THANKS = "You're welcome! 😊 Ask me anything else about careers whenever you like."
+THANKS = "You're welcome! 😊 Ask me anything else about the university whenever you like."
 
-BYE = "Goodbye, and best of luck with your career journey! 🎓"
+BYE = "Goodbye, and all the best with your studies! 🎓"
 
 OFF_TOPIC = (
-    "That's a little outside what I can help with, since I'm a career "
-    "counselling assistant. 😊\n\n"
+    "That's a little outside what I can help with, since I'm the GSFC "
+    "University student assistant. 😊\n\n"
     "I'm happy to help with questions like:\n" + EXAMPLES + "\n\n"
-    "What would you like to know about careers?"
+    "What would you like to know about the university?"
 )
 
 

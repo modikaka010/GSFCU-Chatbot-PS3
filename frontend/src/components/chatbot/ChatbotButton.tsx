@@ -5,9 +5,9 @@ export function ChatbotButton({ onClick, restoreFocus }: { onClick: () => void; 
   const ref = useRef<HTMLButtonElement>(null);
   useEffect(() => { if (restoreFocus) ref.current?.focus(); }, [restoreFocus]);
   return (
-    <button ref={ref} type="button" className="cb-launcher" onClick={onClick} aria-label="Ask NCCT Career Assistant" title="Ask NCCT Career Assistant">
+    <button ref={ref} type="button" className="cb-launcher" onClick={onClick} aria-label="Ask GSFC University Assistant" title="Ask GSFC University Assistant">
       <GraduationCap size={20} aria-hidden="true" />
-      <span className="cb-launcher__text">Ask Career AI</span>
+      <span className="cb-launcher__text">Ask GSFCU AI</span>
     </button>
   );
 }

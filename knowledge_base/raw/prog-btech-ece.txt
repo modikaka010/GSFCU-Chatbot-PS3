@@ -1,0 +1,424 @@
+B.Tech. Electronics and Communication Engineering | GSFC University, Vadodara
+B.Tech. in Electronics and Communication Engineering
+B.Tech. in Electronics and Communication Engineering
+About The Program
+Program Outcomes
+Program Specific
+Outcomes
+Program USPs
+Program Structure
+Course Structure
+Admission Process
+Coordinators
+E-Centre
+About The Program
+The B.Tech program in Electronics and Communication Engineering (ECE) is designed to build a robust foundation in electronics while equipping students with practical skills in cutting-edge domains. The curriculum fosters
+innovation, analytical thinking, and research orientation, preparing graduates to address real-world engineering challenges
+With Gujarat rapidly emerging as a key hub in India’s
+electronics and semiconductor ecosystem, and the development of a semiconductor manufacturing and design belt
+in and around the state, the program is strategically aligned with regional and national priorities. It also supports flagship initiatives such as India Semiconductor Mission led by Ministry of Electronics and Information Technology, which aim to strengthen the country’s semiconductor design, manufacturing, and innovation capabilities. This alignment ensures that students are well-prepared for opportunities in the rapidly growing semiconductor and electronics sectors.
+The program emphasizes holistic student development through active participation in technical clubs, student chapters, and co-curricular activities. Continuous mentoring is provided through structured training in soft skills, placement readiness, and preparation for competitive examinations via foundation and bridge courses.
+Electronics and Communication Engineering is a dynamic and evolving discipline driven by
+advancements in VLSI design, communication systems, IoT, and intelligent technologies
+. A strong grounding in fundamentals, combined with exposure to emerging trends, is essential for future engineers.
+To address these
+industry demands
+, the program offers the following specialization tracks:
+1. VLSI Design & Technology
+2. Information & Communication Technology (ICT)
+Program Outcomes
+Engineering knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis:
+Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusion
+Modern tool usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+The engineer and society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication:
+Communicate effectively on complex engineering activities with the engineering community and with the society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance:
+Demonstrate knowledge understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning:
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Program Specific Outcomes
+Core Electronics and Communication Competency:Apply fundamental concepts of electronics and communication engineering to analyze, design, and develop electronic circuits and communication systems for real-world applications.
+VLSI Design & Semiconductor Systems: Design, simulate, and analyze integrated circuits and semiconductor devices using modern EDA tools, enabling solutions in VLSI design and embedded hardware systems.
+Information & Communication Technologies: Develop and implement solutions in modern communication technologies, including wireless systems, IoT, and networked applications, using appropriate tools and techniques.
+Program USPs
+Located within the industrial ecosystem of GSFC Limited and in close proximity to Gujarat’s emerging
+semiconductor and electronics hub
+, the campus provides students with valuable exposure to real-time industrial environments, strengthening their understanding of both core electronics and advanced technologies.
+cutting-edge
+curriculum designed to meet the dynamic needs of industry
+Strong industry
+ecosystem with collaborations across leading organizations
+such as Qualcomm Inc, eInfochips, NetWeb Software, Rishabh Software, PMC, GSFC Limited, Gujarat Alkalies and Chemicals Limited, Larsen & Toubro, and several other industry partners, enabling enhanced learning, internships, and placement opportunities
+Comprehensive industry exposure through internships integrated with semester-wise curriculum mapping, culminating in a final-year project based on challenging Industry Defined Projects (IDP) or User Defined Projects (UDP) to ensure practical and application-oriented learning.
+Strong ecosystem for
+innovation and entrepreneurship
+through GUIITAR(GSFC University Incubation Innovation Technology and Applied Research) Council, providing funding support, mentorship, and startup incubation
+Extensive industry linkages facilitating expert talks, symposiums, industry-driven projects, and hands-on learning experiences through strong collaborations
+State of the Art Laboratories
+The Electronics and Communication Engineering program is supported by a range of modern laboratories designed to facilitate experiential learning, innovation, and research. These laboratories enable students to gain hands-on experience in core and emerging areas of electronics, communication, and computing technologies.
+Research Labs:
+Exposure of working on industrial problems in specialized laboratories sponsored and supported by Gujarat Council on Science & Technology (GUJCOST), Department of Science & Technology (DST)
+● Supercomputer Lab (PARAM Shavak DL-GPU)
+● Design IoT Lab
+Core & Specialized Laboratories:
+Dedicated laboratories supporting fundamentals:
+Digital Electronics & Microprocessor Lab
+Electrical and Electronics Lab
+Robotics &Automation Lab
+Advance Drone Lab
+Operating Systems Lab
+Programming Lab
+Program Structure
+The B.Tech. Electronics and Communication Engineering (ECE) program is of four years’ duration. Each year constitutes an academic year and is divided into two semesters, making a total of eight semesters. Each semester comprises approximately fifteen weeks of teaching and academic activities.
+The teaching–learning process includes theory sessions of one-hour duration and practical/laboratory sessions of two-hour duration. The curriculum is delivered through a blend of pedagogical approaches such as classroom teaching, laboratory experiments, simulation-based learning, and digital tools.
+Various methods are adopted to enhance learning, including lectures, hands-on laboratory work, use of EDA and simulation tools, audio-visual aids, e-learning platforms, virtual laboratories, industry visits, expert lectures, seminars, workshops, project-based learning, and industrial internships. This comprehensive approach ensures that students develop both strong theoretical foundations and practical competencies in electronics and communication engineering.
+Evaluation
+The assessment broadly comprises Internal Assessment (Continuous Evaluation Component) and External Assessment i.e., End Semester Examination. Each course carries 100 marks for theory with 60 marks for Internal Assessment and 40 for End Semester Examination and the practical course carries additional 50 marks. The internal assessment will be through MCQ, Classroom Test, Open Book Assignment, Oral Presentation and Short Projects.
+Courses
+The curriculum structure of the B.Tech. Electronics and Communication Engineering (ECE) program is designed based on the fundamental requirements of electronics and communication engineering. The program comprises
+Fundamental Engineering Courses, Core Courses, Professional Electives, NPTEL Electives, Open Electives, Ability and Skill Enhancement Courses, and Value-Added Courses
+, ensuring a comprehensive and industry-relevant academic framework.
+For theory classes, one credit corresponds to one hour of lecture per week, while for practical sessions, one credit corresponds to two hours of laboratory work per week.
+The Fundamental Engineering Courses and Core Courses (CC) are mandatory for all students. The program offers three categories of elective courses: Professional Electives, NPTEL Electives, and Open Electives, enabling students to tailor their learning in alignment with emerging technologies and career aspirations. In addition, students undertake Ability Enhancement Compulsory Courses (AECC), Skill Enhancement Compulsory Courses (SECC), and Value-Added Courses to enhance technical and professional competencies.
+The Core Courses, Discipline-Specific Electives, and Generic Electives typically carry 3 to 5 credits each, while Skill Enhancement and Ability Enhancement Courses are generally of 2 credits each. A student is required to earn a minimum of 175 credits to be eligible for the award of the B.Tech degree in Electronics and Communication Engineering.
+The program offers specialization tracks from the 3rd semester onwards, allowing students to build focused expertise in the following domains.
+● VLSI Design & Technology
+● Information & Communication Technology (ICT)
+Students can further strengthen their specialization through Professional Electives offered in the 6th and 7th semesters, along with an Open Elective in the 6th semester.
+Course Structure
+Credits
+Specialization Courses
+Semester I
+Semester II
+Semester III
+Semester IV
+Semester V
+Semester VI
+Semester VII
+Semester VIII
+Structure of Undergraduate Programme
+Sr. No.
+Category of Course
+Credit
+Humanities and Social Sciences courses
+Basic Science courses
+Engineering Science courses
+Professional Core courses
+Professional Elective courses
+Open Elective courses
+Project work, seminar and internship
+Value Added courses
+Total
+183
+Specialization Courses
+Sr. No.
+Semester
+VLSI Design & Technology
+Information & Communication Technology (ICT)
+Semester III
+Analog & Linear Integrated Circuits
+Analog & Linear Integrated Circuits
+Semester IV
+RTL Design and HDL Modeling (Verilog Lab)
+Fundamentals of IoT
+Semester V
+Low Power VLSI design
+Embedded System Design
+Semester VI
+EDA Tools & Verification
+Wireless Sensor networks
+Semester VI
+Analog Mixed Signal IC Design
+Deep Learning
+Semester VII
+ASIC Design
+Cyber-Physical Systems (CPS)
+Semester VIII
+System-on-Chip Design
+Next Generation Wireless Technologies (5G/6G)
+Semester – I
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC101
+Fundamentals of English
+100
+B. Skill Enhancement Courses
+a) Skill Enhancement compulsory course
+VACC101
+Foundation Course
+100
+C. Core Course
+BTEC101
+Basics of Electrical & Electronics
+150
+BTMA103
+Mathematics – I
+100
+BTCS107
+Programming for Problem Solving (C/Python)
+150
+BTPY105
+Engineering Physics (waves, optics, semiconductor)
+100
+BTEC102
+Circuit Design & Assembly Workshop
+BTFS108
+Fundamentals in Fire & Environment, Health, Safety
+100
+Total
+850
+Semester – II
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC201
+Communication Skills in English
+100
+B. Skill Enhancement Courses
+a) Skill Enhancement compulsory course
+BTEC205
+Industrial Internship
+100
+C. Core Course
+BTEC201
+Linux and Scripting
+150
+BTEC202
+Electronic Devices and Circuits
+150
+BTEC203
+Linear Algebra / Mathematics – II
+100
+BTEC204
+Digital System Design
+150
+Total
+750
+Semester – III
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC301
+Entrepreneurship Development
+100
+B. Skill Enhancement Courses
+a) Skill Enhancement compulsory course
+BTEC305
+Industrial Internship
+100
+C. Core Course
+BTEC301
+Probability and Random Processes
+100
+BTEC302
+Networks, Signals and Systems
+150
+BTEC303
+Introduction to AI & ML
+150
+D. Specialized Track Elective
+BTE304 (VLSI & ICT)
+Analog & Linear Integrated Circuits
+150
+Total
+750
+Semester – IV
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC401
+Environmental Studies
+100
+B. Skill Enhancement Courses
+a) Skill Enhancement compulsory course
+BTEC407
+Industrial Internship
+100
+C. Core Course
+BTEC401
+Electromagnetics Theory and Wave Propagation
+100
+BTEC402
+Computer Networks
+150
+BTEC403
+Microprocessor, Microcontroller & Interfacing
+150
+BTEC404
+Analog Communication System
+150
+D. Specialized Track Elective
+BTEC405 (VLSI)
+RTL Design & HDL Modeling (Verilog)
+150
+BTEC406 (ICT)
+Fundamentals of Internet of Things (IoT)
+Total
+900
+Semester – V
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC502
+Disaster Risk Management
+100
+B. Skill Enhancement Courses
+BTEC506
+Industrial Internship
+100
+C. Core Course
+NOC01
+NPTEL Elective
+100
+BTEC501
+Digital Communication System
+150
+BTEC502
+CMOS VLSI Design
+150
+BTEC503
+Control Systems Engineering
+100
+D. Specialized Track Elective
+BTEC504 (VLSI)
+Low Power VLSI Design
+150
+BTEC505 (ICT)
+Embedded System Design
+Total
+850
+Semester – VI
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Ability Enhancement Compulsory Course
+AECC601
+Indian Constitution
+100
+B. Skill Enhancement Courses
+SECC601
+Industrial Internship
+100
+BTEC608
+Minor Project - I
+C. Core Courses
+BTEC601
+Emerging Communication Systems (Microwave, Optical, Radar, Satellite)
+100
+BTEC602
+Digital Signal Processing
+150
+D. Professional Elective
+BTEC603
+Professional Elective – I
+150
+E. Specialized Track Electives
+BTEC604 (VLSI)
+EDA Tools & Verification
+150
+BTEC605 (ICT)
+Wireless Sensor Networks
+BTEC606 (VLSI)
+Analog Mixed Signal IC Design
+150
+BTEC607 (ICT)
+Deep Learning
+Total
+950
+Semester – VII
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Skill Enhancement Courses
+BTEC707
+Industrial Internship
+100
+BTEC708
+Minor Project - II
+100
+B. Core Courses
+BTEC701
+Computer Vision and Intelligent Image Processing
+150
+C. Professional Elective
+BTEC702
+Professional Elective – II
+150
+D. Specialized Track Electives
+BTEC703 (VLSI)
+ASIC Design
+150
+BTEC704 (ICT)
+Cyber-Physical Systems (CPS)
+BTEC705 (VLSI)
+System-on-Chip (SoC) Design
+150
+BTEC706 (ICT)
+Next Generation Wireless Technologies (5G/6G)
+Total
+800
+Semester – VIII
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Skill Enhancement Courses
+a) Skill Enhancement compulsory course
+BTEC801
+Major Project
+100
+Total
+100
+Admission Process
+Total Intake: 30 Seats
+Mode of Admission: Merit-based
+Qualifying Examination:10+2 (Science) or equivalent
+Eligibility for Admission
+For State Quota Seats:
+The State Quota seats of the B.Tech program shall be filled through the Admission Committee for Professional Courses (ACPC), Government of Gujarat, as per prevailing guidelines.
+For All India Seats (Management Quota):
+The All India quota seats of the B.Tech program shall be filled by GSFC University based on the following eligibility criteria:
+- Seats (including applications from outside Gujarat) will be filled from All India candidates (including Gujarat) on the basis of the NTA score in JEE (Main) – 2026 or the percentile rank of GUJCET 2026 examinations. Admission notifications for these seats will be published on the University website.
+- In case seats remain vacant under JEE (Main) or GUJCET categories, such seats may be interchanged between the two categories as per university norms.
+- The candidate must have passed the HSC (Science stream) or an equivalent qualifying examination with a minimum of 60% aggregate marks (55% for SC/ST/SEBC) in theory and practical of Physics and Mathematics, along with Chemistry / Computer / Vocational subject from a recognized board.
+Registration Fees
+The registration fee for submitting the online application form is Rs. 350 and to know the admission procedure and other details please visit
+and register yourself.
+Contact Co-ordinator
+Ms. Swati Saxena
+Sr. Assistant Professor and Program Coordinator - Electronics & Communication Engineering
+- pc.ece@gsfcuniversity.ac.in
++91-9825177310
+E-Centre
+Program Brochure
+University Brochure
+Detailed Curriculum
+Academic Regulations

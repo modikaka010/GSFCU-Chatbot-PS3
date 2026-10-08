@@ -1,0 +1,355 @@
+Master of Science in Data Science | GSFC University, Vadodara
+Master of Science in Data Science
+Master of Science in Data Science
+About The Program
+Vision - Mission
+Program Outcomes
+Specific Outcomes
+Program USPs
+Program Structure
+Course Structure
+Professional Chapter(s)
+Admission Process
+Coordinators
+e-Centre
+About The Program
+Powering the Data-Driven Future
+In today’s digital era,
+data is the new power,
+driving decisions, innovation, and global transformation. The
+M.Sc. Data Science program at GSFC University
+is designed to equip students with a powerful blend of
+Mathematics, Statistics and Computer Science,
+enabling them to analyze complex data and solve real-world problems.
+This
+two-year, four-semester program
+focuses on applying advanced analytical and computational techniques to
+big data,
+supported by
+hands-on learning and mandatory internships after every semester.
+Students gain both theoretical depth and practical expertise, preparing them for careers in
+R&D, industry, and academia,
+with strong placement support.
+Vision - Mission
+Department Vision:
+To emerge as a nationally recognized hub for Data Science education and applied research, developing ethical, industry-ready professionals who leverage computational intelligence to drive innovation, sustainability, and socio-economic progress.
+Department Mission:
+Build Strong Foundations:
+Impart rigorous training in Statistics, Mathematics, Computing, and Data-driven reasoning to develop technically sound and analytically mature graduates.
+Enable Future Technologies:
+Equip students with hands-on skills in AI, Machine Learning, and Big Data through experiential pedagogy, real-world datasets, and interdisciplinary applications.
+Drive Ethical & Applied Research:
+Promote industry-connected, application-oriented research that prioritizes responsible, transparent, and ethical use of data
+Develop Industry-Ready Professionals:
+Enhance employability through internships, live industry projects, soft-skill training, and continuous curriculum upgrades aligned with evolving technological needs.
+Program Outcomes
+Advanced Data Science Knowledge:
+Apply advanced concepts of data science, statistics, machine learning, and computational intelligence to solve complex real-world problems.
+Data Engineering & Computational Skills:
+Design and implement scalable data engineering solutions using modern programming languages, cloud platforms, and distributed computing frameworks.
+Analytical Thinking & Problem Solving:
+Analyze large and complex datasets using critical thinking, statistical inference, and optimization techniques to support data-driven decision-making.
+Machine Learning & AI Model Development:
+Develop, evaluate, and deploy machine learning, deep learning, and AI models for predictive analytics and intelligent automation.
+Data Visualization & Communication:
+Communicate analytical findings effectively through professional reports, research publications, dashboards, and data storytelling methods.
+Ethics, Privacy & Professional Responsibility:
+Evaluate ethical, legal, privacy, and security issues related to data collection, processing, and AI deployment in societal and industrial contexts.
+Interdisciplinary Applications & Industry Alignment:
+Integrate data science solutions across domains such as healthcare, finance, manufacturing, smart cities, biotechnology, and social sciences.
+Research Aptitude & Lifelong Learning:
+Demonstrate research competence, innovation, and continuous learning for pursuing Ph.D., entrepreneurship, and emerging technologies in data science.
+Specific Outcomes
+Advanced Statistical & Mathematical Modelling:
+Apply advanced statistical techniques, machine learning theory, optimization, and probabilistic modelling for complex data analysis.
+Big Data Analytics & Data Engineering:
+Design and manage big data pipelines using tools such as Hadoop, Spark, NoSQL databases, and cloud-based architectures.
+AI, Deep Learning & Intelligent Systems:
+Develop deep learning models and AI-driven applications using neural networks, NLP, computer vision, and reinforcement learning approaches.
+Business Intelligence & Decision Support Systems:
+Build decision-support solutions using data visualization, dashboards, and predictive analytics for strategic organizational planning.
+Research-Based Project & Industry Solutions:
+Execute industry-oriented projects and research dissertations involving real-world datasets, model deployment, and scholarly reporting.
+Program USP
+Industry-informed Curriculum:
+: Strong foundation in
+data analytics, interpretation, and real-world applications
+through Industry Driven Curriculum.
+Expertise in solving
+complex and emerging technological challenges
+Development of
+analytical thinking and research capabilities.
+Effective communication of data-driven insights
+Ability to address
+industrial, societal, and ethical challenges.
+Program Structure
+two-year, four-semester program
+combining
+core courses, electives, internships, viva and dissertation.
+The curriculum follows
+UGC guidelines
+and emphasizes experiential learning through labs, projects, simulations, workshops and industry engagement.
+Internships:
+to 3
+semester
+Dissertation / Project:
+Entire 4
+Semester
+Discipline Specific Electives & Skill/Ability Enhancement Courses
+Evaluation
+The overall assessment comprises an Internal Assessment (60% weightage) and an External End-Semester Examination (ESE, 40% weightage). The Internal Assessment is split into a Mid-Semester Examination (MSE) and Continuous Evaluation Components (CEC). Each theory course carries 100 marks, while practical courses are evaluated out of 50 marks. CEC evaluations include MCQ tests, open-book exams, assignments, article reviews, oral presentations, and short projects.
+Courses
+The curriculum of the program is based on the UGC prescribed curriculum structure and as per NEP 2020 policy. The courses and allied credits are distributed in major, minor, inter-multidisciplinary, ability/skill enhancement, research, etc. categories as per the prescribed standards.
+To acquire the degree in
+M.Sc. Data Science,
+a student must study and pass
+all compulsory courses with specified credits.
+For
+theory
+classes,
+one credit
+indicates
+one-hour lecture
+per week, for
+tutorial
+sessions,
+one credit
+indicates
+one-hour session
+per week, while for
+practical
+sessions,
+one credit
+indicates
+two-hours of practical/laboratory/hands-on session
+per week.
+A student has to earn a minimum of
+96 Credits
+to get a degree in
+M.Sc. Data Science.
+Students have to undergo
+Internship
+after the completion of end-semester examination of
+, 2
+and 3
+Semesters. The internship carries a weightage of
+two(2) Credits.
+Dissertation/project/On-job training(OJT) is offered in the final Semester. .
+Course Structure
+Credits
+Semester I
+Semester II
+Semester III
+Semester IV
+Curriculum Structure
+Sr. No.
+Category of Course
+M.Sc.
+Major
+Minor
+Ability Enhancement Compulsory Course
+Skill Enhancement Compulsory Course
+Value Added Compulsory Course
+Interdisciplinary
+Research Work
+Total
+Semester – I
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Research work
+RS101
+Research Methodology
+100
+B. Skill Enhancement
+SECC101
+Internship
+100
+C. Major Courses
+MSDS111
+Data Structures & Algorithms
+150
+MSDS112
+Object Oriented Programming using Python
+150
+MSDS113
+Database Management Systems
+150
+D. Minor Courses
+MSDS114
+Mathematical Foundation for Data Science
+100
+MSDS115
+Statistics-I
+150
+MSDS116
+Data Visualization using Power BI
+100
+E. Inter/Multi disciplinary
+MDCC101
+Computational Finance
+100
+Total
+1100
+Semester – II
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Inter/Multi disciplinary
+MDCC201
+Digital Marketing
+150
+B. Skill Enhancement
+SECC201
+Internship
+100
+SECC202
+Minor Project
+100
+C. Major Courses
+MSDS211
+Advance Python
+150
+MSDS212
+Cloud Computing
+150
+MSDS213
+Fundamentals of AI & ML
+150
+D. Minor Courses
+MSDS214
+Numerical Methods & Analysis using MATLAB
+150
+MSDS215
+Statistics-II
+150
+MSDS216
+Ethics in Data Science
+100
+Total
+1200
+Semester – III
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Value-added
+NOC01
+NPTEL online course
+100
+B. Skill Enhancement
+SECC301
+Internship
+100
+SECC302
+Minor Project
+100
+C. Major Courses
+MSDS311
+Optimization Techniques
+150
+MSDS312
+Big Data Analytics using Hadoop
+150
+MSDS313
+Deep Learning
+150
+MSDS314
+Data Mining & Warehousing
+150
+MSDS315
+Computer Vision
+150
+D. Minor Courses
+MSDS316
+Statistics-III
+150
+Total
+1200
+Semester – IV
+Sr. No.
+Course Code
+Course Title
+Marks
+A. Research
+MSDS401
+Major Project/Dissertation
+200
+Total
+200
+State of the Art Laboratories
+GSFC University provides hands-on training to its students through highly-equipped laboratories for the courses offered in respective programs
+Research Labs:
+Exposure of working on industrial problems in specialized laboratories sponsored and supported by Gujarat Council on Science & Technology (GUJCOST), Department of Science & Technology (DST)
+Supercomputer Lab (PARAM Shavak DL-GPU)
+Design IoT Lab
+Core Courses Labs:
+Laboratories for core & specialized courses:
+Data Science Lab
+Business analytics Lab
+Advance Data Science Lab
+Data Engineering Lab
+AI & ML Lab
+Robotics & Automation Lab
+Operating System Lab
+Programming Lab
+Digital Electronics & Microprocessor Lab
+Research & Development Lab
+Cyber Security Lab
+E Yantra Lab:
+Collaboration with IIT Bombay
+Access to GSFC Ltd laboratories:
+Prospects of working at the laboratories of GSFC Limited and access to of
+22 process plants
+for internship opportunities as well as learning from the industry experts
+Student Managed Club & Professional Chapter(s)
+The GSFC University believes in holistic development of its students. For promoting leadership skills, the University is offering more than 25 Student Managed Clubs & Chapters in diverse domains.
+Smart Data Club
+The Department of Data Science hosts one such Student Managed Club: The Smart Data Club (SDC). To know more about the Smart Data Club.
+Read More
+ACM Student Chapter
+ACM Student Chapter at GSFC University aims to foster a vibrant community of learners passionate about computer science and technology. The Association for Computing Machinery community, the world’s largest educational and scientific computing society, connects students to a network of professionals, researchers, and peers worldwide. To know more about the ACM Student Chapter.
+Read More
+Code Club
+The code club has been conducting various fundamental and skill-enhancement activities for the University students. In addition, the students have been trained and prepared for hackathons. To get more information on the Code Club.
+Read More
+IEEE Student Chapter
+IEEE student chapter has been incepted since the academic year 2026-27. To know more about the IEEE Student Chapter.
+Read More
+Admission Process
+Total Intake:
+10 Seats
+Mode of Admission:
+Merit Based
+Qualifying Examination:
+A Bachelor’s Degree in Science or Technology or Computer Applications from a recognized University
+Eligibility for Admission
+Candidates with ≥55% in B.Sc./B.E./B.Tech/BCA are eligible for
+direct admission through the interview process.
+The candidate must register through the University website for getting notified for the interview process.
+Final-year students from eligible disciplines may apply
+20% seats
+reserved for GSFC students;
+80% open on All-India basis
+Admissions are
+merit-based,
+with provision for re-test and category conversion as per norms
+Eligible backgrounds include
+Statistics, Mathematics, Physics, Computer Science, Economics, Econometrics, Operational Research, Engineering (CS/IT/Electronics/Electrical), BCA, B.Sc. (IT), and B.Sc. (Data Science).
+Final-year students may also apply, subject to submission of results.
+Registration Fees
+The registration fee for submitting an online application form is Rs. 600/- (Rupees Six Hundred Only), which is to be paid online.
+Apply Now
+Contact Co-ordinator
+Ms. Harshada Sarla
+Program Coordinator
+- pc.mscdatascience@gsfcuniversity.ac.in
+Dr Ankit Sudhir
+Admission In-Charge,SOS
+- ankit.sudhir@gsfcuniversity.ac.in
+e-Centre
+Program Brochure
+University Brochure
+Detailed Curriculum

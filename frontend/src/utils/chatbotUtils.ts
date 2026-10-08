@@ -19,44 +19,45 @@ export const getFirstName = (profile: UserProfile | null) => profile?.name?.trim
 
 export function buildGreeting(profile: UserProfile | null) {
   const name = getFirstName(profile);
-  return `Hi${name ? ` ${name}` : ' there'}! 👋\n\nI'm your AI Career Guidance Assistant.\n\nI can help you explore careers, the education and skills they need, useful courses and certifications, and entry-level roles.\n\nWhich career are you curious about?`;
+  return `Hi${name ? ` ${name}` : ' there'}! 👋\n\nI'm the GSFC University Assistant.\n\nI can help you with programs and schools, admissions, exams, hostels, facilities, events, clubs, placements and contact details.\n\nWhat would you like to know?`;
 }
 
 /** Same for every user: shown before the conversation starts. */
 export const INITIAL_SUGGESTIONS = [
-  'How do I become a pilot?',
-  'What skills does a graphic designer need?',
-  'Courses and certifications for Data Engineer',
-  'What does an architect do?',
-  'Tell me about becoming a doctor',
+  'Which programs does the School of ICT offer?',
+  'How do I apply for admission?',
+  'Tell me about the IEEE Student Branch',
+  'What hostel facilities are available?',
+  'Who is the Dean of ICT?',
 ];
 
-type Topic = 'plan' | 'courses' | 'demand' | 'jobs' | 'skills' | 'career' | 'general';
+type Topic = 'admission' | 'programs' | 'exams' | 'facilities' | 'events' | 'contact' | 'general';
 
 const FOLLOW_UPS: Record<Topic, string[]> = {
-  career: ['Which skills do I need for this career?', 'Show me a learning plan for this role', 'Recommend courses for this career', 'What jobs are available in this field?'],
-  skills: ['Recommend courses to close these gaps', 'Create a learning plan for me', 'Which of these skills is most in demand?', 'How long will it take to learn these?'],
-  courses: ['Which course should I start with?', 'What skills will these courses add?', 'Show me a learning plan with these courses', 'What careers do these courses lead to?'],
-  jobs: ['What skills do I need for these roles?', 'How can I prepare for this role?', 'What is the career path from here?', 'Recommend courses for this role'],
-  demand: ['Which of these skills match my profile?', 'Recommend courses for these skills', 'What careers use these skills?'],
-  plan: ['Recommend courses for the first step', 'How long will this plan take?', 'What jobs can I apply to after this?'],
-  general: ['Suggest a career path for me', 'Identify my skill gaps', 'Recommend courses for my career'],
+  admission: ['What documents are needed for admission?', 'What is the fee structure?', 'Are scholarships available?', 'How can I contact the admission office?'],
+  programs: ['How do I apply for admission?', 'What is the fee structure?', 'Tell me about placements', 'Are internships available?'],
+  exams: ['How are exams evaluated?', 'How can I contact the exam cell?', 'Where can I find the exam time table?', 'Where is the academic calendar?'],
+  facilities: ['What hostel facilities are available?', 'What are the library timings?', 'Is transport available?', 'What sports facilities are there?'],
+  events: ['Which clubs can I join?', 'Tell me about the IEEE Student Branch', 'What sports facilities are there?', 'What events are coming up?'],
+  contact: ['How can I contact the admission office?', 'Who is the Registrar?', 'How can I contact the exam cell?', 'Who is the Dean of ICT?'],
+  general: ['Which programs does GSFC University offer?', 'How do I apply for admission?', 'What hostel facilities are available?'],
 };
 
+// The university backend sends plain text only; any structured block just gets generic follow-ups.
 const BLOCK_TOPIC: Record<RecommendationBlock['type'], Topic> = {
-  career_recommendation: 'career', course_recommendation: 'courses', skill_gap: 'skills', learning_path: 'plan', job_role: 'jobs',
+  career_recommendation: 'general', course_recommendation: 'general', skill_gap: 'general', learning_path: 'general', job_role: 'general',
 };
 
 function detectTopic(userText: string, blocks?: RecommendationBlock[]): Topic {
   if (blocks?.length) return BLOCK_TOPIC[blocks[0].type];
   const t = userText.toLowerCase();
-  if (/what is|who are you|what can you do/.test(t)) return 'general';
-  if (/\b(plan|roadmap|learning path)\b/.test(t)) return 'plan';
-  if (/course|certif/.test(t)) return 'courses';
-  if (/demand|trend|market/.test(t)) return 'demand';
-  if (/\bjobs?\b|role|opportunit|hiring|interview/.test(t)) return 'jobs';
-  if (/gap|improve|skill|learn/.test(t)) return 'skills';
-  if (/career|path/.test(t)) return 'career';
+  if (/who are you|what can you do|what is gsfc/.test(t)) return 'general';
+  if (/contact|e-?mail|phone|\bdean\b|\bhod\b|\bhead\b|registrar|director|provost|president|\boffice\b/.test(t)) return 'contact';
+  if (/exam|evaluation|result|time ?table|calendar|semester|\bmse\b|\bese\b/.test(t)) return 'exams';
+  if (/hostel|library|transport|\bbus\b|canteen|food|medical|sport|\bgym\b|\blabs?\b|wi-?fi|campus|facilit/.test(t)) return 'facilities';
+  if (/admission|apply|eligib|document|scholarship|\bfees?\b|refund/.test(t)) return 'admission';
+  if (/event|club|chapter|ieee|\bncc\b|fest|activit|startup|expo/.test(t)) return 'events';
+  if (/program|course|b\.?tech|\bbca\b|\bmba\b|\bbba\b|m\.?sc|b\.?sc|ph\.?d|school|department|branch|placement|internship/.test(t)) return 'programs';
   return 'general';
 }
 

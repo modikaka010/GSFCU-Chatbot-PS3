@@ -1,0 +1,93 @@
+Frequently Asked Questions (FAQs)
+BCA Program, SoT, GSFC University
+1. Academic Related
+Q1. What is the duration of the BCA program at GSFC University?
+A. The BCA program is of 3 years (6 semesters), full-time as well as 4 years (8 semesters) as BCA
+with Honours.
+Q2. What is the eligibility criteria for admission?
+A. Students who have passed 12th standard (any stream) with English and
+Mathematics/Statistics/Business Maths/Computer Science as one of the subjects are eligible, as
+per university norms.
+Q3. What is the medium of instruction?
+A. The program is taught in English.
+Q4. Are there specialization options in BCA?
+A. Yes, in higher semesters, electives are offered in areas such as Data Science, Artificial
+Intelligence, Cyber Security, Cloud Computing, Software Development, etc. (may vary by
+curriculum update).
+Q5. What is the attendance requirement?
+A. Students must maintain minimum 75% attendance in each subject to be eligible for exams.
+Q6. What academic support is available for weak students?
+A. The university provides:
+ Remedial classes for students who fail in mid/end semester exams.
+ Mentoring system where each student is assigned a faculty mentor .
+2. Examination & Evaluation
+Q7. How is the evaluation carried out?
+A. The assessment is based on:
+Theory:
+ Mid-Semester Examination (MSE) – 25% weightage
+ End-Semester Examination (ESE) – 50% weightage
+ Internal Assessment – 25% weightage (Article Review, Open Book,Quizzes, Class
+participation)
+Practical:
+ Practical Exams & Viva:
+Q8. What if a student misses an exam?
+A. In genuine cases (medical/emergency), students may apply for a re-exam/make-up exam with
+prior approval from the Program Coordinator and Head of Department.
+Q9. What is the passing criteria?
+A. Students must secure minimum 40% in each subject (including internal + external) to pass.
+3. Internship & Placement
+Q10. Is internship compulsory in the BCA program?
+A. Yes, internship is part of the curriculum, generally in the final year . It helps students gain real-
+world industry exposure.
+Q11. Does the university provide placement assistance?
+A. Yes, the Training & Placement Cell actively supports students with internships and job
+placements. Corporate Skill Development programs and mock interview preparations are also
+provided to the students.
+Q12. What kind of companies hire BCA students?
+A. Companies from IT services, software development, startups, fintech, data analytics,
+cybersecurity, cloud solutions, and corporate IT departments regularly hire students.
+4. Hostel & Canteen Facilities
+Q13. Does GSFC University provide hostel facilities?
+A. Yes, separate boys’ and girls’ hostels are available near the campus.
+Q14. What facilities are available in the hostel?
+A. Hostel facilities include:
+ Furnished rooms (single/double/triple sharing depending on allocation)
+ Wi-Fi and study space
+ Mess with nutritious meals
+ 24/7 security & CCTV surveillance
+ Recreational/common rooms
+Q15. What is the hostel admission process?
+A. Hostel admission is based on availability. Students need to apply through the Hostel Office
+after confirming university admission.
+Q16. Are vegetarian and non-vegetarian food options available?
+A. The hostel mess and canteen primarily serve vegetarian food. Special food arrangements
+(Jain, etc.) may be available on request.
+Q17. Is there a canteen on campus?
+A. Yes, the campus has a canteen/cafeteria that provides snacks, beverages, and meals at
+reasonable prices.
+5. Campus Life & Facilities
+Q18. What learning facilities are available?
+i. Well-equipped Computer Labs with the latest software and high-speed internet.
+ii. Digital classrooms with smart boards and audio-visual aids.
+iii. Central Library with textbooks, reference books, journals, e-resources, and study spaces.
+Q19. Are sports and extracurricular activities encouraged?
+A. Every Week, 1 hour slot is allocated for club activities which is an initiative under the student
+managed clubs. Also, students can participate in:
+ Sports & NCC – Indoor & outdoor facilities available.
+ Clubs – Technical, cultural, innovation, and social service clubs.
+ Annual events – Cultural fest, tech fest, sports week.
+6. Administrative & Support
+Q20. Who should be contacted for academic queries?
+A. The Program Coordinator (BCA).
+Q21. Who handles official letters (NOC, bonafide, transcripts, etc.)?
+A. The School Office/Administration Department/Exam Section.
+Q22. Whom to contact for internship/placement related queries?
+A. The Training & Placement Cell.
+Q23. Whom to approach for hostel related queries?
+A. The Hostel Warden/Hostel Office.
+Q24. How should students raise queries or issues formally?
+A. Students must follow the communication hierarchy:
+1. Class Coordinator →
+2. Program Coordinator →
+3. Head of Department (HOD) →
+4. Dean/Registrar (if unresolved).

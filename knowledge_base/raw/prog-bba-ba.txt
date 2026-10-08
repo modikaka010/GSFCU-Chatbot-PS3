@@ -1,0 +1,327 @@
+Bachelor of Business Administration - Business Analytics | GSFC University, Vadodara
+Bachelor of Business Administration - Business Analytics
+Bachelor of Business Administration - Business Analytics
+About The Program
+Program Outcomes
+Program Objectives
+Program USPs
+Program Structure
+Course Structure
+Admission Process
+Contact Co-ordinator
+E-Centre
+About The Program
+Bachelor of Business Administration - Business Analytics (BBA-BA) is the process of interpreting data to help organizations make informed, strategic decisions. It involves the collection, analysis, and interpretation of large datasets from both profit and non-profit organizations. As a rapidly emerging discipline, Business Analytics has become a vital component of management science, where decision-making is largely data-driven. In view of, huge data across functional areas like marketing, finance, Production, Purchase, HR, Logistics. The complexity of data is increasing with the growth of the business and competition in the concerned sector. Therefore, Business analytics is becoming an effective tool in dealing with decision making which is complex in terms of magnitude of data.
+Program Outcomes
+Graduates will be industry-ready professionals with a futuristic and data-driven outlook.
+Graduates will be proficient communicators, skilled in analytical tools, technology, and business decision-making.
+Graduates will demonstrate managerial competencies, ethical responsibility, and leadership qualities.
+Graduates will show the ability for lifelong learning and adaptation to evolving business environments.
+Program Objectives
+To enable students to analyze, formulate, and solve complex business and analytical problems.
+To develop professionalism, ethical values, communication skills, teamwork, and a multidisciplinary outlook for lifelong learning.
+To prepare students for careers in business, analytics, research, and academia, fostering creativity and commitment.
+To instill the ability to translate data-driven insights into sustainable and human-centered development strategies.
+Program USP
+Strong foundation in
+data analytics, statistics, and business intelligence
+Industry expert sessions on
+AI, analytics, and digital transformation
+Hands-on training with
+industry-relevant tools such as Excel, Power BI, Python, R, and data visualization platforms
+Excellent preparation for careers in
+data analytics, consulting, and business intelligence
+Develops critical thinking, data interpretation, and strategic decision-making abilities.
+Exposure to real-world business data and analytical decision-making.
+Enables students to translate complex data into actionable business insights.
+Program Structure
+The BBA (Business Analytics) program follows the National Education Policy (NEP) 2020 framework, offering a three-year undergraduate degree with an optional fourth year (Honours/Research). Each academic year is divided into two semesters, totaling six to eight semesters. Thus, there will be a total of six to eight semesters. Each semester includes a minimum of fifteen weeks of instruction, combining theory and practical sessions. Teaching–learning methods include interactive lectures, case studies, simulations, data labs, virtual learning environments, industry visits, projects, and internships.
+Evaluation
+Evaluation consists of Continuous Internal Assessment (CIA) and End-Semester Examination (ESE).
+Each theory course carries 100 marks: 60 for internal components (assignments, quizzes, case studies, presentations) and 40 for end-semester examination.
+Practical and project-based courses carry separate evaluation components based on performance, reports, and viva-voce..
+Course Structure
+Semester I
+Semester II
+Semester III
+Semester IV
+Semester V
+Semester VI
+Semester VII
+Semester VIII
+Semester – I
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA101
+Principles and Practices of Management
+100
+BBA102
+Financial Accounting
+100
+BBA103
+Business Statistics and Logic
+100
+BA208
+Introduction to Data Science
+100
+BBA104
+Indian Knowledge System
+100
+VACC102
+Environmental Science and Sustainability
+100
+AECC101
+Fundamentals of English
+100
+VACC101
+Foundation Course
+100
+VACC103
+Communicative English and Employability Skills - I
+100
+Total
+900
+Semester – II
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA201
+Human Behaviour and Organization
+100
+BBA202
+Marketing Management
+100
+BBA203
+Business Economics
+100
+BA207
+Basics of DBMS
+100
+BBA204
+Emerging Technologies and Application
+100
+AECC201
+Communication Skills in English
+100
+VACC201
+Tinkering Lab
+100
+BBA205
+INTERNSHIP
+100
+VACC202
+Communicative English and Employability Skills - II
+100
+Total
+1000
+Semester – III
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA301
+Cost and Management Accounting
+100
+BBA302
+Legal and Ethical issues in business
+100
+BBA303
+Human Resource Management
+100
+BA305
+DBMS – SQL
+100
+BA206
+Data Visualisation Tool - M S Excel
+100
+BBA304
+Management Information System(MIS)
+100
+AECC301
+Entrepreneurship Development
+100
+BBA305
+Internship
+100
+VACC301
+Communicative English and Employability Skills - III
+100
+Total
+800
+Semester – IV
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA402
+Financial Management
+100
+BBA403
+Business Research methodology
+100
+BBA404
+International Business
+100
+BA402
+HR Analytics
+100
+BA408
+Marketing & Retail Analytics
+100
+VACC401
+Public Health and Management
+100
+AECC401
+Envrionmental Science
+100
+SEC401
+Design Thinking and Innovation
+100
+BBA405
+REEP Project
+100
+VACC301
+Communicative English and Employability Skills - III
+100
+Total
+1000
+Semester – V
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA501
+Strategic Management
+100
+BBA502
+Logistics and Supply Chain Management
+100
+BA205
+Programming with C/C++
+100
+BA507
+Python Programming
+100
+BA508
+Data Visualisation - Power BI
+100
+SEC501
+Capstone Project
+100
+BBA503
+Internship
+100
+AECC501
+Indian Constitution
+100
+VACC301
+Communicative English and Employability Skills - III
+100
+Total
+900
+Semester – VI
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA601
+Project Management
+100
+BA401
+Introduction to AI and ML
+100
+BA504
+Financial Analytics
+100
+BA601
+Logistics & SCM Analytics
+100
+BA505
+Programming in R
+100
+SEC601
+Corporate Governance
+100
+SEC602
+Major Project
+100
+AECC601
+Disaster Risk Management
+100
+VACC601
+Communicative English and Employability Skills - VI
+100
+Total
+900
+Semester – VII
+Sr. No.
+Course Code
+Course Title
+Marks
+BBA701
+AI for Business; Diversity, Equity and Inclusion; Digital Ethnography and Online Communities
+100
+BBA702
+Entrepreneurial Leadership
+100
+BA502
+Digital Transformation of Business
+100
+BA406
+Data Visualisaiton Tool – Tableau
+100
+BBA703
+Internship
+100
+BBA704
+Dissertation work
+100
+VACC301
+Communicative English and Employability Skills - III
+100
+Total
+700
+Semester – VIII
+Sr. No.
+Course Code
+Course Title
+Marks
+BA503
+Web & Social Media Analytics
+100
+BA506
+Data Visualisation Google Studio
+100
+BBA803
+Dissertation work
+100
+VACC301
+Communicative English and Employability Skills - VII
+100
+Total
+400
+Admission Process
+Total Intake
+60 Seats
+Mode of Admission
+Merit Based
+Qualifying Examination
+10 + 2 (Commerce/Science) or Equivalent
+Eligibility for Admission
+Candidates who have passed 10+2 or equivalent examination in any stream (Commerce/Science/Arts) from a recognized board with at least 45% aggregate marks (40% for reserved categories) are eligible to apply. Admissions are granted on a merit and first-come, first-served basis. Applicants from international boards such as IB or IGCSE must submit an equivalence certificate issued by the Association of Indian Universities (AIU), New Delhi.
+Registration Fees
+The application fee is ₹500, payable online
+Selection Process:
+50% and above aggregate marks in H.S.C (12th Std) or equivalent - Direct admission on first cum first basis, 45% for SC/ST/OBC-Non-Creamy Layer/PD/EWS.
+Contact Co-ordinator
+Ms. Vimla Virparia
+Program Coordinator
+- pc.bbabusinessanalytics@gsfcuniversity.ac.in
+E-Centre
+Sample Paper for Entrance Test
+University Brochure
+Detailed Curriculum - 4 Years
+Detailed Curriculum - 3 Years

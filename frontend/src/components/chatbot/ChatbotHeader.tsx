@@ -23,7 +23,7 @@ export function ChatbotHeader({ theme, expanded, onToggleTheme, onToggleExpand, 
       <span className="cb-avatar cb-avatar--lg" aria-hidden="true"><GraduationCap size={20} /></span>
       <div className="cb-header__text">
         <h2>{chatbotConfig.assistantName}</h2>
-        <p>AI Career Guidance</p>
+        <p>Student Information Assistant</p>
       </div>
       <div className="cb-header__actions">
         <Btn label="Start new conversation" onClick={onNewChat}><RotateCcw size={16} /></Btn>
